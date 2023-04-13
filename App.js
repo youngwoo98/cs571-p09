@@ -9,6 +9,8 @@ export default function App() {
 
   const [prefs, setPrefs] = useState({});
 
+
+
   return (
     <>
       <BadgerPreferencesContext.Provider value={[prefs, setPrefs]}>

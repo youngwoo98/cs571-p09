@@ -102,16 +102,16 @@ The questions below will ask you about the mobile design and design patterns use
 
 1. In what way(s) is Badger News (implemented in this homework) more mobile-friendly than Badger Bakery (implemented in the last homework)?
 
-INSERT YOUR RESPONSE HERE.
+Badger News is more mobile-friendly since most of the actions are based on gesture such as scrolling down the screen. Also, it include many factors that initiates microinteractions.
 
 2. Name a perceptible affordance within your app, what does it do? Then, name a hidden affordance that *could* be implemented, what would it do?
 
-INSERT YOUR RESPONSE HERE.
+Our navigation tab could be a perceptible affordance used in our app. It navigates through screens which is recognizable by icons. Maybe we could add a swiping gesture to move back to the news screen from detail screen.
 
 3. One of the design paradigms that we discussed in class was "metaphoric design". What could be done to make our app design more metaphoric? What would be the benefits and consequences of a more metaphoric design?
 
-INSERT YOUR RESPONSE HERE.
+Since this app is displaying articles, I thought that we could design this app more like a magazine or news papers by adding navigating method through different article's detail page by swiping it left or right like we are flipping pages of magazine or news paper.
 
 4. Briefly describe the business goal(s) and posture level of this application. Then, what is a task a user may try to accomplish? How does your app support this task?
 
-INSERT YOUR RESPONSE HERE.
+This app is an article app which goal is to briefly bring the recent articles from UW Madison to the user which might support the user to update the news related to UW Madison based on their preferences.
